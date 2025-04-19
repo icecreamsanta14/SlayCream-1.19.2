@@ -1,5 +1,5 @@
 package net.icecream.slaycream;
-
+// I am literally making this in order to add a song into game...
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
