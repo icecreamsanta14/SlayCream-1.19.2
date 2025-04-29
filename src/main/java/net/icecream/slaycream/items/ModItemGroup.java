@@ -8,5 +8,5 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
     public static final ItemGroup ICECREAMS_TRINKETS = FabricItemGroupBuilder.build(
-            new Identifier(SlayCream.MOD_ID, "icecreams_trinkets"), () -> new ItemStack(ModItems.THE_CORE));
+            new Identifier(SlayCream.MOD_ID, "icecreams_trinkets"), () -> new ItemStack(ModItems.THE_CORE_MUSIC_DISC));
 }

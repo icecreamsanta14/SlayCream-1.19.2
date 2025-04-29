@@ -1,0 +1,10 @@
+{
+  "the_core": {
+    "sounds": [
+      {
+        "name": "slaycream:the_core",
+        "stream": true
+      }
+    ]
+  }
+}
